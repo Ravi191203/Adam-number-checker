@@ -1,9 +1,5 @@
 # Adam Number Checker (HTML, Bootstrap, JavaScript)
 
-Here are some 3-digit Adam Numbers:
-
-101, 111, 121, 131, 212, 232, 242, 252, 303, 323
-
 Here are the first 10 Adam Numbers:
 
 1, 2, 3, 11, 12, 13, 21, 31, 101, 111
